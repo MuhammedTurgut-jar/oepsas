@@ -1,0 +1,14 @@
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="80" cy="80" r="80" fill="#C2004D"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <!-- headband arc -->
+    <path d="M 45 85 A 35 35 0 0 1 115 85" />
+    <!-- left ear cup -->
+    <rect x="38" y="80" width="16" height="26" rx="6" fill="#FFFFFF" stroke="none"/>
+    <!-- right ear cup -->
+    <rect x="106" y="80" width="16" height="26" rx="6" fill="#FFFFFF" stroke="none"/>
+    <!-- mic boom -->
+    <path d="M 114 100 Q 100 118 82 112" stroke="#FFFFFF" fill="none"/>
+    <circle cx="80" cy="111" r="4" fill="#FFFFFF" stroke="none"/>
+  </g>
+</svg>
